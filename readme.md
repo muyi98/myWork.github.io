@@ -1,0 +1,1 @@
+这是绑定本地仓库到github之后建立的readme.md
